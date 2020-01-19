@@ -1,0 +1,10 @@
+__pycache__
+.pickle
+matlab/data/*
+FeatureExtraction/Test_C3Dfeature/*
+FeatureExtraction/Test_feature/*
+FeatureExtraction/Test_reduce_dim_feature
+Train_feature/*
+Test_feature/*
+Train_vol/*
+Test_vol/*

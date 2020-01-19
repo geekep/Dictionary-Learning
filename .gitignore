@@ -1,5 +1,5 @@
 __pycache__
-.pickle
+*.pickle
 matlab/data/*
 FeatureExtraction/Test_C3Dfeature/*
 FeatureExtraction/Test_feature/*
